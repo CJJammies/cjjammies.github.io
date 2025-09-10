@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title> Hello World </title>
+	</head>
+	<body>
+		<h1>Welcome to the World</h1>
+		<p> This is created in a Notepad</p>
+	</body>
+</html>
